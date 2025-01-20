@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <p>hi </p>
+      <p>hi friends </p>
     </>
   )
 }
